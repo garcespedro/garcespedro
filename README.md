@@ -61,4 +61,11 @@ qualidade de código e boas práticas.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=garcespedro&theme=dark)
 
+---
+
+## 🐍 Snake Game
+
+![Snake animation](https://raw.githubusercontent.com/garcespedro/snake-animation/output/github-contribution-grid-snake.svg)
+
+
 📫 **GitHub:** https://github.com/garcespedro
