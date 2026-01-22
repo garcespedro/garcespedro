@@ -59,7 +59,7 @@ qualidade de código e boas práticas.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garcespedro&layout=compact&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=garcespedro&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=garcespedro&theme=dark&hide_border=true)
 
 ---
 
