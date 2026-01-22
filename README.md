@@ -53,4 +53,12 @@ qualidade de código e boas práticas.
 
 ---
 
+## 📊 Estatísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=garcespedro&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garcespedro&layout=compact&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=garcespedro&theme=dark)
+
 📫 **GitHub:** https://github.com/garcespedro
