@@ -40,16 +40,16 @@ I am passionate about applying academic knowledge to practical projects, with a 
 
 ---
 
-## 🎯 Objetivos
-- Consolidar conhecimentos em **Java e Engenharia de Software**
-- Desenvolver projetos bem estruturados e documentados
-- Evoluir para um ambiente de desenvolvimento profissional
+## 🎯 Goals
+- Strengthen and consolidate knowledge in **Java and Software Engineering**
+- Develop well-structured and well-documented projects
+- Grow and evolve within a professional development environment
 
 ---
 
-## 🌍 Idiomas
-- 🇵🇹 Português — Nativo  
-- 🇬🇧 Inglês — Intermédio (B1/B2)
+## 🌍 Languages
+- 🇵🇹 Portuguese — Native  
+- 🇬🇧 English — Intermediate (B1/B2)
 
 ---
 
