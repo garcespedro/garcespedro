@@ -1,16 +1,16 @@
-# 👋 Olá, eu sou o Luís Garcês
+# 👋 Hi, I'm Luís Garcês
 
-🎓 Estudante de **Engenharia Informática**  
-🏫 Escola Superior de Tecnologia e Gestão de Felgueiras (IPP)  
-💻 Desenvolvedor em formação com foco em **Java, Engenharia de Software,Base de dados e análise de dados**
+🎓 Computer Engineering Student  
+🏫 School of Technology and Management of Felgueiras (IPP)  
+💻 Aspiring Software Developer focused on **Java, Software Engineering, Databases, and Data Analysis**
 
 ---
 
-## 🧠 Sobre mim
-Sou estudante de Engenharia Informática, atualmente no 3.º ano, com forte interesse em programação,
-estruturas de dados, bases de dados e desenvolvimento de software.
-Procuro aplicar os conhecimentos académicos em projetos práticos, com atenção à organização,
-qualidade de código e boas práticas.
+## 🧠 About Me
+
+I am a third-year Computer Engineering student with a strong interest in programming, data structures, databases, and software development.
+
+I am passionate about applying academic knowledge to practical projects, with a strong focus on organization, clean code, and software engineering best practices.
 
 ---
 
