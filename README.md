@@ -14,29 +14,29 @@ I am passionate about applying academic knowledge to practical projects, with a 
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-- ☕ **Java** (Programação Orientada a Objetos)
-- 🧩 Estruturas de Dados
+## 🛠️ Technologies & Tools
+- ☕ **Java** (Object-Oriented Programming)
+- 🧩 Data Structures
 - 🌐 HTML, CSS, JavaScript
 - ⚙️ Node.js, Express.js
-- 🅰️ Angular (nível académico)
+- 🅰️ Angular (academic level)
 - 🛢️ SQL Server, MongoDB
 - 🛠️ Git & GitHub
 - 🧠 IntelliJ IDEA
 
 ---
 
-## 📂 Projetos Académicos
-- 🥗 Plataforma online de nutricionistas  
+## 📂 Academic Projects
+- 🥗 Online Nutritionist Platform  
   *HTML, CSS, JavaScript, Node.js, Express, Angular*
 
-- 🎮 Jogo de simulação de missões  
-  *Java — Estruturas de Dados*
+- 🎮 Mission Simulation Game  
+  *Java — Data Structures*
 
-- 🌱 Software para cálculo da pegada de carbono  
-  *Java — Qualidade de Software e Metodologias Ágeis*
+- 🌱 Carbon Footprint Calculation Software  
+  *Java — Software Quality and Agile Methodologies*
 
-*(Os projetos encontram-se disponíveis nos repositórios abaixo ⬇️)*
+*(The projects are available in the repositories below ⬇️)*
 
 ---
 
