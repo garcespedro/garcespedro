@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Luís Garcês m
+# 👋 Hi, I'm Luís Garcês 
 
 🎓 Computer Engineering Student  
 🏫 School of Technology and Management of Felgueiras (IPP)  
